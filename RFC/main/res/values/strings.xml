@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Examen_RFC</string>
+
+    <string name="textView_Titulo">RFC</string>
+    <string name="textView_Rfc"></string>
+    <string name="textView_Nombre">Nombre (s):</string>
+    <string name="textView_Papellido">Apellido Paterno:</string>
+    <string name="textView_Sapellido">Apellido Materno:</string>
+    <string name="textView_Dia">Dia:</string>
+    <string name="textView_Mes">Mes:</string>
+    <string name="textView_Año">Año:</string>
+
+    <string name="button_Generar">Generar</string>
+    <string name="button_Limpiar">Limpiar</string>
+
+    <string name="editText_Nombre"></string>
+    <string name="editText_Papellido"></string>
+    <string name="editText_Sapellido"></string>
+    <string name="generar">Generar</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>
