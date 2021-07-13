@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Examen_Curp</string>
+    <string name="textView_Titulo">CURP</string>
+    <string name="textView_Nombre">Nombre (s):</string>
+    <string name="textView_Papellido">Apellido Paterno:</string>
+    <string name="textView_Sapellido">Apellido Materno:</string>
+    <string name="textView_Sexo">Sexo:</string>
+    <string name="textView_Estado">Estado:</string>
+    <string name="textView_Fecha">Fecha de nacimiento:</string>
+    <string name="textView_Curp"></string>
+    <string name="textView_Dia">Dia:</string>
+    <string name="textView_Mes">Mes:</string>
+    <string name="textView_Año">Año:</string>
+
+    <string name="radioButton_H">Hombre</string>
+    <string name="radioButton_M">Mujer</string>
+
+    <string name="button_Fecha">Fecha</string>
+    <string name="button_Generar">Generar</string>
+    <string name="button_Limpiar">Limpiar</string>
+
+    <string name="Spinner_Año">Año</string>
+
+    <string name="editText_Nombre"></string>
+    <string name="editText_Papellido"></string>
+    <string name="editText_Sapellido"></string>
+
+
+</resources>
